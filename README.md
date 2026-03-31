@@ -5,7 +5,7 @@
 # OCT Retinal Disorder Classification
 
 ## Project Overview
-This project uses **ResNet-18** to classify retinal disorders from OCT images into 4 categories:
+This project uses **ResNet-30** to classify retinal disorders from OCT images into 4 categories:
 - CNV (Choroidal Neovascularization)
 - DME (Diabetic Macular Edema)
 - DRUSEN  
