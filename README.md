@@ -1,3 +1,7 @@
+![Accuracy](https://img.shields.io/badge/Accuracy-98.14%25-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.7+-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-red)
+
 # OCT Retinal Disorder Classification
 
 ## Project Overview
